@@ -2,7 +2,17 @@
 
 ## Overview
 
-This project involves the creation of an interactive Excel dashboard designed to visualize road accident data effectively. The dashboard leverages pivot tables, calculated items, and various charts to present key insights.
+This project involves the creation of an interactive Excel dashboard designed to visualize road accident data effectively. The dashboard leverages pivot tables, calculated items, and various charts to present key insights. 
+
+## Dataset
+
+The data used for this project consists of road accident records with the following details:
+
+- **Number of Rows**: 307,974
+- **Number of Fields**: 21
+- **File Extension**: .xlsx
+
+[Access the dataset here](https://docs.google.com/spreadsheets/d/1cyhwsLvFseY_KW73m_rbXAE58mwwB3Z6/edit?usp=drive_link&ouid=106374515170332271817&rtpof=true&sd=true)
 
 ## Highlights
 
